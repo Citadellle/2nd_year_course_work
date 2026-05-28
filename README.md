@@ -1,1 +1,3 @@
-# 2nd_year_course_work
+**This repository is part of the coursework of Gordeev Mikhail, a second-year student of Business Informatics at Novosibirsk State University (NSU).**
+
+**Данный репозиторий является частью курсовой работы студента второго курса направления "Бизнес-информатика" Новосибирского Государственного Университета (НГУ) - Гордеева Михаила.**
